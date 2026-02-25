@@ -16,3 +16,6 @@ pre order traversal
 30
 
 
+#Binary Search Tree
+BST@2a139a55
+true
