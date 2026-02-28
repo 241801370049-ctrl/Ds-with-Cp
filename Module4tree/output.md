@@ -18,4 +18,9 @@ pre order traversal
 
 #Binary Search Tree
 BST@2a139a55
+
+
+
+#Insertion
+BST@2a139a55
 true
