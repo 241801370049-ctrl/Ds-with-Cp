@@ -77,3 +77,18 @@ After Step 5
 4
 2
 5
+
+
+#Depth First Search
+0 -> 1 2 
+1 -> 2 
+2 -> 3 
+3 -> 
+DFS Traversal: 0 1 2 3
+
+#B First Search
+0 -> 1 2 
+1 -> 2 
+2 -> 3 
+3 -> 
+BFS Traversal:  BFS  Breadth First search0 1 2 3 DFS Traversal:  DFS  Depth First search0 1 2 3 
